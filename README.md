@@ -2,7 +2,7 @@
 SKS Written Test
 
 Requirement Packages:
-pandas
-random
-re
-spacy
+* pandas
+* random
+* re
+* spacy
