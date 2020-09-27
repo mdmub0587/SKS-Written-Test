@@ -1,7 +1,7 @@
 # SKS-Written-Test
 SKS Written Test
 
-Requirement Packages:
+Required Packages:
 * pandas
 * random
 * re
